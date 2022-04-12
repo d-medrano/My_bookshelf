@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/diego/MEGA/Data Science/UdemyPostgreSQL/bookshelf_project/venv-bookshelf"
+set -gx VIRTUAL_ENV "/home/diego/MEGA/Data Science/UdemyPostgreSQL/my_bookshelf/venv-bookshelf"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

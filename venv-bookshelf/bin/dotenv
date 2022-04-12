@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/diego/MEGA/Data Science/UdemyPostgreSQL/bookshelf_project/venv-bookshelf/bin/python3" "$0" "$@"
+'''exec' "/home/diego/MEGA/Data Science/UdemyPostgreSQL/my_bookshelf/venv-bookshelf/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re

@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/diego/MEGA/Data Science/UdemyPostgreSQL/bookshelf_project/venv-bookshelf"
+VIRTUAL_ENV="/home/diego/MEGA/Data Science/UdemyPostgreSQL/my_bookshelf/venv-bookshelf"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
